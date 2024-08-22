@@ -1,20 +1,6 @@
 {
   "drinks": [
     {
-      "id": "martini",
-      "name": "Martini",
-      "description": "An ice-cold, refreshing classic.",
-      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
-      "serve": "Serve very cold, straight up."
-    },
-    {
-      "id": "negroni",
-      "name": "Negroni",
-      "description": "A nice drink for a late night conversation.",
-      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
-      "serve": "Serve cold, either on the rocks or straight up."
-    },
-    {
       "id": "gin-and-tonic",
       "name": "Gin and Tonic",
       "description": "Like regular tonic, but with gin.",
@@ -35,6 +21,20 @@
       "serve": "over ice in a highball glass",
       "id": "tom-collins"
     },
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },    
     {
       "name": "Manhattan",
       "description": "Classy cocktail",
